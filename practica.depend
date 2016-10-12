@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1465054231 source:/home/german/Desktop/Algoritmos y Estructura de Datos/Practica/practica/main.cpp
+	"funciones.h"
+
+1464908421 source:/home/german/Desktop/Algoritmos y Estructura de Datos/Practica/practica/Ejercicio 1.cpp
+	"funciones.h"
+
+1465054231 /home/german/Desktop/Algoritmos y Estructura de Datos/Practica/practica/funciones.h
+	<iostream>
+	<stdlib.h>
+	<cmath>
+
+1464822989 source:/home/german/Desktop/Algoritmos y Estructura de Datos/Practica/practica/Ejercicio 2.cpp
+	"funciones.h"
+
+1465010927 source:/home/german/Desktop/Algoritmos y Estructura de Datos/Practica/practica/Ejercicio 3.cpp
+	"funciones.h"
+
+1464912239 source:/home/german/Desktop/Algoritmos y Estructura de Datos/Practica/practica/Ejercicio 16.cpp
+	"funciones.h"
+
+1465011484 source:/home/german/Desktop/Algoritmos y Estructura de Datos/Practica/practica/Ejercicio 4.cpp
+	"funciones.h"
+
+1465012391 source:/home/german/Desktop/Algoritmos y Estructura de Datos/Practica/practica/Ejercicio 5.cpp
+	"funciones.h"
+
+1465018048 source:/home/german/Desktop/Algoritmos y Estructura de Datos/Practica/practica/Ejercicio 7.cpp
+	"funciones.h"
+
+1465020056 source:/home/german/Desktop/Algoritmos y Estructura de Datos/Practica/practica/Ejercicio 8.cpp
+	"funciones.h"
+
+1465051727 source:/home/german/Desktop/Algoritmos y Estructura de Datos/Practica/practica/Ejercicio 10.cpp
+	"funciones.h"
+
+1465053545 source:/home/german/Desktop/Algoritmos y Estructura de Datos/Practica/practica/Ejercicio 13.cpp
+	"funciones.h"
+
+1465054307 source:/home/german/Desktop/Algoritmos y Estructura de Datos/Practica/practica/Ejercicio 17.cpp
+	"funciones.h"
+
+1474925765 source:c:\users\german.uriarte\desktop\facultad\algoritmos y estructura de datos\practica\practica\ejercicio 1.cpp
+	"funciones.h"
+
+1465501381 c:\users\german.uriarte\desktop\facultad\algoritmos y estructura de datos\practica\practica\funciones.h
+	<iostream>
+	<stdlib.h>
+	<cmath>
+
+1465492744 source:c:\users\german.uriarte\desktop\facultad\algoritmos y estructura de datos\practica\practica\ejercicio 16.cpp
+	"funciones.h"
+
+1474925871 source:c:\users\german.uriarte\desktop\facultad\algoritmos y estructura de datos\practica\practica\ejercicio 2.cpp
+	"funciones.h"
+
+1474925795 source:c:\users\german.uriarte\desktop\facultad\algoritmos y estructura de datos\practica\practica\ejercicio 3.cpp
+	"funciones.h"
+
+1474925838 source:c:\users\german.uriarte\desktop\facultad\algoritmos y estructura de datos\practica\practica\ejercicio 4.cpp
+	"funciones.h"
+
+1474925852 source:c:\users\german.uriarte\desktop\facultad\algoritmos y estructura de datos\practica\practica\ejercicio 5.cpp
+	"funciones.h"
+
+1465492744 source:c:\users\german.uriarte\desktop\facultad\algoritmos y estructura de datos\practica\practica\ejercicio 7.cpp
+	"funciones.h"
+
+1465492744 source:c:\users\german.uriarte\desktop\facultad\algoritmos y estructura de datos\practica\practica\ejercicio 8.cpp
+	"funciones.h"
+
+1465501371 source:c:\users\german.uriarte\desktop\facultad\algoritmos y estructura de datos\practica\practica\main.cpp
+	"funciones.h"
+
+1465492744 source:c:\users\german.uriarte\desktop\facultad\algoritmos y estructura de datos\practica\practica\ejercicio 13.cpp
+	"funciones.h"
+
+1465493125 source:c:\users\german.uriarte\desktop\facultad\algoritmos y estructura de datos\practica\practica\ejercicio 10.cpp
+	"funciones.h"
+
+1465492744 source:c:\users\german.uriarte\desktop\facultad\algoritmos y estructura de datos\practica\practica\ejercicio 17.cpp
+	"funciones.h"
+
+1465493630 source:c:\users\german.uriarte\desktop\facultad\algoritmos y estructura de datos\practica\practica\ejercicio 20.cpp
+	"funciones.h"
+
+1465501947 source:c:\users\german.uriarte\desktop\facultad\algoritmos y estructura de datos\practica\practica\ejercicio 23.cpp
+	"funciones.h"
+
